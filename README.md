@@ -3,13 +3,13 @@
 > 声明: 所有播放源均收集于互联网，仅供测试研究学习，`不得商用!`
 
 ## 订阅链接:        
-> [直播加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/live.m3u)
+> [直播加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/panybbib/IPTV/main/live.m3u)
 > 
-> [直播加速URL2](https://gh.llkk.cc/https://github.com/XlllllX/IPTV/blob/main/live.m3u)
+> [直播加速URL2](https://gh.llkk.cc/https://github.com/panybbib/IPTV/blob/main/live.m3u)
 >
-> [节目单加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/XlllllX/IPTV/main/epg.xml)
+> [节目单加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/panybbib/IPTV/main/epg.xml)
 > 
-> [节目单加速URL2](https://gh.llkk.cc/https://github.com/XlllllX/IPTV/blob/main/epg.xml)
+> [节目单加速URL2](https://gh.llkk.cc/https://github.com/panybbib/IPTV/blob/main/epg.xml)
 
 ## IPV6优势
 1. 更低的延迟: IPv6协议在一些方面能提供更低的延迟，这对于实时视频流的播放体验很重要，可以减少视频缓冲和加载时间。
